@@ -1,5 +1,4 @@
 This project explores **Convolutional Neural Networks (CNNs)** for **multi-class classification of clothing items** using the [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist).  
-The work was part of the course *Intelligente Datenanalyse und Maschinelles Lernen II* at Universität Potsdam.  
 
 ---
 
