@@ -39,7 +39,6 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 
 ### Architecture
 ![Model Architecture](ppt_images/Picture2.png)
-![Model Architecture](ppt_images/Picture3.png)
 
 
 ### Deeper CNN (~13M parameters)
@@ -49,7 +48,6 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 
 ### Architecture
 ![Model Architecture](ppt_images/Picture4.png)
-![Model Architecture](ppt_images/Picture5.png)
 
 ---
 
