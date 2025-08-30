@@ -18,7 +18,7 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 - 10 categories of clothing items  
 
 ### Example Images
-![Dataset Samples](ppt_images/slide7_img2.png)
+![Dataset Samples](ppt_images/Picture1.png)
 
 ---
 
