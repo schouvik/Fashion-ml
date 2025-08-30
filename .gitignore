@@ -20,3 +20,6 @@ Thumbs.db
 
 souvik_822559.ipynb
 tmp.h5
+
+# Ignore all input data files
+input/
