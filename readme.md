@@ -39,6 +39,7 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 
 ### Architecture
 ![Model Architecture](ppt_images/Picture2.png)
+![Model Architecture](ppt_images/Picture4.png)
 
 
 ### Deeper CNN (~13M parameters)
@@ -47,7 +48,7 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 - Optimized with Adam & SGD (CLR)  
 
 ### Architecture
-![Model Architecture](ppt_images/Picture4.png)
+![Model Architecture](ppt_images/Picture3.png)
 
 ---
 
@@ -64,14 +65,14 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 
 ## 📈 Results
 
-### Performance Example
-![Performance](ppt_images/slide21_img3.png)
-
 ### Accuracy Comparison
-![Accuracy Comparison](ppt_images/slide23_img2.png)
+![Accuracy Comparison](ppt_images/Picture5.png)
 
 ### Loss Comparison
-![Loss Comparison](ppt_images/slide24_img2.png)
+![Loss Comparison](ppt_images/Picture6.png)
+
+### Performance of the Deeper CNN 
+![Performance](ppt_images/Picture7.png)
 
 ---
 
