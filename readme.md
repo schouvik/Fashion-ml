@@ -39,6 +39,8 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 
 ### Architecture
 ![Model Architecture](ppt_images/Picture2.png)
+
+### Architecture of the Model with Dropout
 ![Model Architecture](ppt_images/Picture4.png)
 
 
