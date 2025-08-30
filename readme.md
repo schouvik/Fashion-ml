@@ -25,7 +25,7 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 ## 🛠️ Libraries Used
 - **Visualization:** `matplotlib`, `seaborn`  
 - **Modeling:** `sklearn`, `keras`  
-- **Deep Learning:** `keras.models`, `keras.layers`, `keras.optimizers`, `keras.callbacks`  
+- **Deep Learning:** `keras.models`, `keras.layers`, `keras.optimizers`, `keras.callbacks`,`lr_finder`
 - **Data Handling:** `numpy`, `pandas`  
 
 ---
@@ -37,13 +37,19 @@ This project explores **Convolutional Neural Networks (CNNs)** for **multi-class
 - Batch Normalization, Dropout  
 - Dense + Softmax output  
 
+### Architecture
+![Model Architecture](ppt_images/Picture2.png)
+![Model Architecture](ppt_images/Picture3.png)
+
+
 ### Deeper CNN (~13M parameters)
 - More Conv + Dense layers  
 - Dropout & Data Augmentation  
 - Optimized with Adam & SGD (CLR)  
 
-### Architecture Example
-![Model Architecture](ppt_images/slide11_img3.png)
+### Architecture
+![Model Architecture](ppt_images/Picture4.png)
+![Model Architecture](ppt_images/Picture5.png)
 
 ---
 
