@@ -1,0 +1,18 @@
+{
+  "@type": "ML Project",
+  "name": "Fashion ML",
+  "description": "This project explores Convolutional Neural Networks (CNNs) for multi-class classification of clothing items using the Fashion-MNIST dataset.",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/MIT",
+  "codeRepository": "https://github.com/schouvik/Fashion-ml",
+  "programmingLanguage": "Python",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Souvik",
+      "familyName": "Sarkar",
+      "email": "souviksarkar175@gmail.com"
+    }
+  ],
+  "datePublished": "2026-01-01"
+}
