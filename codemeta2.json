@@ -1,0 +1,47 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "type": "SoftwareSourceCode",
+  "authors": [
+      {
+          "orcid": "https://orcid.org/0009-0008-4352-6180",
+          "email": "souvik.sarkar@uni-potsdam.de",
+          "family-names": "Sarkar",
+          "given-names": "Souvik",
+          "affiliation": "University of Potsdam"
+      }
+  ],
+  "repository-code": "https://github.com/schouvik/Fashion-ml",
+  "year": "2025",
+  "abstract": "This project explores Convolutional Neural Networks (CNNs) for multi-class classification of clothing items using the [Fashion-MNIST dataset]",
+  "keywords": [
+      "ML",
+      "CNN",
+      "Classification"
+  ],
+  "license": "MIT",
+  "title": "Fashion ML",
+  "programmingLanguage": "Python3",
+  "version": "1.0.0",
+  "references": [
+    {
+      "authors": [
+        {
+          "family-names": "Xiao",
+          "given-names": "Han"
+        },
+        {
+          "family-names": "Rasul",
+          "given-names": "Kashif"
+        },
+        {
+          "family-names": "Vollgraf",
+          "given-names": "Roland"
+        }
+      ],
+      "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms.",
+      "doi": "10.48550/arXiv.1708.07747",
+      "type": "research-paper",
+      "year": 2017
+    }
+  ]
+}
