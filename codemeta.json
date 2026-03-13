@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "type": "SoftwareSourceCode",
   "title": "cff2pages: Generate Markup from Your Citation.cff File",
@@ -145,7 +144,6 @@
     }
   ]
 }
-=======
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "type": "SoftwareSourceCode",
     "authors": [
@@ -192,4 +190,3 @@
       }
     ]
 }
->>>>>>> d2fc2582b778f194fd5ae5cebae4337496f3be57
