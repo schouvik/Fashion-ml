@@ -10,7 +10,7 @@
             "affiliation": "University of Potsdam"
         }
     ],
-    "repository-code": "https://github.com/schouvik/Fashion-ml",
+    "codeRepository": "https://github.com/schouvik/Fashion-ml",
     "datePublished": "2025-30-05",
     "abstract": "This project explores Convolutional Neural Networks (CNNs) for multi-class classification of clothing items using the [Fashion-MNIST dataset]",
     "keywords": [
